@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preeti Hatapaki</h1>
 <h3 align="center">A passionate IT Student</h3>
 
-- 🔭 I’m currently working on **SIH Project**
-
-- 🌱 I’m currently learning **UI/UX**
+-  🌱 I’m currently learning **UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/preeti-hatapaki](https://github.com/preeti-hatapaki)
 
